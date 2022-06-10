@@ -13,7 +13,7 @@ This repository contains the code base for generating the quantitive data within
 
 ### Data Repository
 
-This repository contians the processed input datasets required to run the EnviroScreen data processing code base. Not that an US Census API is required and can be obtained [here](https://api.census.gov/data/key_signup.html). 
+This [repository](https://github.com/GeospatialCentroid/Colorado_EnviroScreen_Data) contians the processed input datasets required to run the EnviroScreen data processing code base. Not that an US Census API is required and can be obtained [here](https://api.census.gov/data/key_signup.html). 
 
 ### English Shiny Application 
 
