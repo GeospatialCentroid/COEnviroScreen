@@ -2,4 +2,4 @@
 Landing page for the multiple repositories associated with the Colorado EnviroScreen project. 
 
 Website can be view here 
-https://geospatialcentroid.github.io/Colorado_EnviroScreen
+https://geospatialcentroid.github.io/COEnviroScreen
