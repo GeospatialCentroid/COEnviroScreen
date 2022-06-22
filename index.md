@@ -2,26 +2,26 @@
 
 This is a landing page for the four repositories associated with the Colorado EnviroScreen project. 
 
-For more information regarding the project please visit the [website](https://cdphe.colorado.gov/enviroscreen) or the application(english or spanish) *links will be added* 
+For more information regarding the project please visit the [website](https://cdphe.colorado.gov/enviroscreen) or the application([English](https://teeo-cdphe.shinyapps.io/COEnviroScreen_English/) or [Spanish](https://teeo-cdphe.shinyapps.io/COEnviroScreen_Spanish/))
 
 
 
 ### Data Processing Repository 
 
-This repository contains the code base for generating the quantitive data within the EnviroScreen school. A vignette is provided to describe how to run the code locally. 
+The [data processing repository](https://github.com/GeospatialCentroid/COEnviroScreen_dataProcessing) contains the code base for generating the quantitive data within the EnviroScreen school. 
 
 
 ### Data Repository
 
-This [repository](https://github.com/GeospatialCentroid/Colorado_EnviroScreen_Data) contians the processed input datasets required to run the EnviroScreen data processing code base. Not that an US Census API is required and can be obtained [here](https://api.census.gov/data/key_signup.html). 
+The [data repository](https://github.com/GeospatialCentroid/COEnviroScreen_dataInputs) contains the processed input datasets required to run the EnviroScreen data processing code base. A US Census API key is required and can be obtained [here](https://api.census.gov/data/key_signup.html). 
 
 ### English Shiny Application 
 
-This repository contain the code and data required to run the english version of the Colorado EnviroScreen Shiny application. 
+The [English Shiny repository](https://github.com/GeospatialCentroid/COEnviroScreen_English) contains the code and data required to run the English version of the Colorado EnviroScreen Shiny application. 
 
 ### Spanish Shiny Application 
 
-This repository contain the code and data required to run the spanish version of the Colorado EnviroScreen Shiny application.
+The [Spanish Shiny repository](https://github.com/GeospatialCentroid/COEnviroScreen_Spanish) contains the code and data required to run the Spanish version of the Colorado EnviroScreen Shiny application.
 
 #### Contact
 carverd@colostate.edu 
