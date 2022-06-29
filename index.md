@@ -2,7 +2,7 @@
 
 This is a landing page for the four repositories associated with the Colorado EnviroScreen project.  
 
-For more information regarding the project please visit CDPHE’s Colorado EnviroScreen [website](https://cdphe.colorado.gov/enviroscreen){:target="_blank"} or the Colorado EnviroScreen application ([English](https://teeo-cdphe.shinyapps.io/COEnviroScreen_English/){:target="_blank"} or [Spanish](https://teeo-cdphe.shinyapps.io/COEnviroScreen_Spanish/)){:target="_blank"}.
+For more information regarding the project please visit CDPHE’s Colorado EnviroScreen [website](https://cdphe.colorado.gov/enviroscreen){:target="_blank"} or the Colorado EnviroScreen application ([English](https://teeo-cdphe.shinyapps.io/COEnviroScreen_English/){:target="_blank"} or [Spanish](https://teeo-cdphe.shinyapps.io/COEnviroScreen_Spanish/){:target="_blank"}).
 
 
 
