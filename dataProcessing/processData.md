@@ -50,7 +50,7 @@ The `processData` function is used to generate all score values connected with t
 Diagram for the three level of functions within the `processData` function.
 
 
-![Processing Data Levels](COEnviroScreen/dataProcessing/processData.jpg)
+![Processing Data Levels](/COEnviroScreen/dataProcessing/processData.jpg)
 
 
  As the bulk of the data processing is performed as part of this `processData` function this process can take a while to run. We recommend running the process with the "county" processingLevel first.
