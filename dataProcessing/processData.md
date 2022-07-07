@@ -1,3 +1,10 @@
+This tutorial has 3 major sections
+- [Setting up the local environment](https://geospatialcentroid.github.io/COEnviroScreen/dataProcessing/localEnv.html)
+- [running the processing code](https://geospatialcentroid.github.io/COEnviroScreen/dataProcessing/processData.html)
+- [details on specific functions](https://geospatialcentroid.github.io/COEnviroScreen/dataProcessing/individualFunctions.html)
+
+
+
 ## Running the processing code : 0_main
 
 ### loading packages/functions

@@ -19,10 +19,9 @@ This allowed for a module approach to the development. The primary motivator for
 
 As with any codebase, this will require some maintenance and adjustment going forward. We hope that what is provided is a viable starting place for a long-lived and successful project.
 
-## About this Document
+## About this Training Material
 
 This tutorial has 3 major sections
-
-- Setting up the local environment
-- running the processing code
-- details on specific functions
+- [Setting up the local environment](https://geospatialcentroid.github.io/COEnviroScreen/dataProcessing/localEnv.html)
+- [running the processing code](https://geospatialcentroid.github.io/COEnviroScreen/dataProcessing/processData.html)
+- [details on specific functions](https://geospatialcentroid.github.io/COEnviroScreen/dataProcessing/individualFunctions.html)
