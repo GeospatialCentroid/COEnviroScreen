@@ -10,7 +10,7 @@ For more information regarding the project please visit CDPHE’s Colorado Envir
 
 The [Data Processing Repository](https://github.com/GeospatialCentroid/COEnviroScreen_dataProcessing){:target="_blank"} contains the code base for generating the quantitive data within the EnviroScreen tool.
 
-[Data processing tutorial](https://geospatialcentroid.github.io/COEnviroScreen/dataProcessing/intro.html)
+[Data processing tutorial](https://geospatialcentroid.github.io/COEnviroScreen/dataProcessing/intro.html){:target="_blank"}
 
 
 ### Data Repository
@@ -20,14 +20,15 @@ The [Data Repository](https://github.com/GeospatialCentroid/COEnviroScreen_dataI
 ### English Shiny Application
 
 The [English Shiny Repository](https://github.com/GeospatialCentroid/COEnviroScreen_English){:target="_blank"} contains the code and data required to run the English version of the Colorado EnviroScreen Shiny application.
-[Shiny App Description]("https://geospatialcentroid.github.io/COEnviroScreen/shinyDescription/appDescription.html"){:target="_blank"}
+
+[Shiny App Description](https://geospatialcentroid.github.io/COEnviroScreen/shinyDescription/appDescription.html){:target="_blank"}
 
 
 ### Spanish Shiny Application
 
 The [Spanish Shiny Repository](https://github.com/GeospatialCentroid/COEnviroScreen_Spanish){:target="_blank"} contains the code and data required to run the Spanish version of the Colorado EnviroScreen Shiny application.
 
-[Shiny App Description]("https://geospatialcentroid.github.io/COEnviroScreen/shinyDescription/appDescription.html"){:target="_blank"}
+[Shiny App Description](https://geospatialcentroid.github.io/COEnviroScreen/shinyDescription/appDescription.html){:target="_blank"}
 
 #### Contact
 carverd@colostate.edu
