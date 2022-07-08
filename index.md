@@ -20,10 +20,14 @@ The [Data Repository](https://github.com/GeospatialCentroid/COEnviroScreen_dataI
 ### English Shiny Application
 
 The [English Shiny Repository](https://github.com/GeospatialCentroid/COEnviroScreen_English){:target="_blank"} contains the code and data required to run the English version of the Colorado EnviroScreen Shiny application.
+[Shiny App Description]("https://geospatialcentroid.github.io/COEnviroScreen/shinyDescription/appDescription.html"){:target="_blank"}
+
 
 ### Spanish Shiny Application
 
 The [Spanish Shiny Repository](https://github.com/GeospatialCentroid/COEnviroScreen_Spanish){:target="_blank"} contains the code and data required to run the Spanish version of the Colorado EnviroScreen Shiny application.
+
+[Shiny App Description]("https://geospatialcentroid.github.io/COEnviroScreen/shinyDescription/appDescription.html"){:target="_blank"}
 
 #### Contact
 carverd@colostate.edu
