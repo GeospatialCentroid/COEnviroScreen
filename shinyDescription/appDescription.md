@@ -1,8 +1,39 @@
+# EnviroScreen Shiny App overview
+
+This document is meant to provide some description context to support active development and troubleshooting of the code base.
+
 
 ## Error and Troubleshooting
 
+Troubleshooting a shinyapp can be a bit challenging at time. While developing this application the most common source of error came from miss matched variable names between the input dataset and parameters within the application. I speak about this quite directly throughout the document.
+Aside from the naming issues the three primary reactive elements; map, histogram, tables do interface with each other but not at the start of the application. This means that specific errors within those features will likely appear on deployment. Usually the error message will point you to the corrent element. If the app runs but fails once a specific request is provided, that's where to look.
 
-## Depolyment
+If things are really bad, like they were when we tried the translation for the first time follow the steps below.
+
+1. Comment out all the content in the server function and make sure the UI looks like you expect it should.
+2. Incrementally introduce a single server side functionally at a time making sure it works as expected before moving on.
+  - this is a great way to understand the dependencies and input to the various reactive actions in the application.
+3. once things work locally, test deployment to server.
+
+
+## Deployment
+
+The `main` branch in the github repository reflects the currently deployed version of the application.
+
+Any addational braches are there for specific development reasons and will be resolved into the main or deleted when appropriate.
+
+Before deploying to the public URL
+1. test application locally.
+  - take your time here. Run through tables, geographies, update the map, test map layers.
+  - errors with indicator names will only show when a specific indicator is selected.
+2. Push version to test site on end point server.
+  - This ensure your application will run on the shinyapps.io server
+3. If it worked on the test site, push to main server.
+  - You be only slightly worried about crashing things at thing point because of the previous two steps.
+
+
+
+
 
 ## Inputs
 
