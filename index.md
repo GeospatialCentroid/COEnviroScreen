@@ -15,7 +15,7 @@ The [Data Processing Repository](https://github.com/GeospatialCentroid/COEnviroS
 
 ### Data Repository
 
-The [Data Repository](https://github.com/GeospatialCentroid/COEnviroScreen_dataInputs){:target="_blank"} contains the processed input datasets required to run the EnviroScreen data processing code base. A U.S. Census API key is required and can be obtained [here](https://api.census.gov/data/key_signup.html){:target="_blank"}.
+The [Data Repository](https://github.com/GeospatialCentroid/COEnviroScreen_dataInputs){:target="_blank"} contains a link to the processed input datasets required to run the EnviroScreen data processing code base and descriptive text pertaining to each input dataset. A U.S. Census API key is required and can be obtained [here](https://api.census.gov/data/key_signup.html){:target="_blank"}.
 
 ### English Shiny Application
 

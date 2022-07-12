@@ -1,3 +1,8 @@
+---
+id: intro
+---
+
+
 # Colorado EnviroScreen
 
 Colorado EnviroScreen is a data processing code base with a public facing shiny application that highlights the spatial variability of specific Environmental Health and Environmental Justice challenges throughout Colorado. This document is intended to guide users in the generation of the Colorado EnviroScreen dataset that supports functions as the input to the shiny applications.
