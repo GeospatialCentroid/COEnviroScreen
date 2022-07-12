@@ -1,1 +1,11 @@
 theme: jekyll-theme-tactile
+
+sidebar:
+  - label: Data Processing
+    children:
+      - intro
+      - local-environment
+      - process-data
+      - individual-functions
+  -label: Shiny Deployment
+    - shiny

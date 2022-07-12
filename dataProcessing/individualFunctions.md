@@ -1,3 +1,8 @@
+---
+id: individual-functions
+---
+
+
 This tutorial has 3 major sections
 - [Setting up the local environment](https://geospatialcentroid.github.io/COEnviroScreen/dataProcessing/localEnv.html)
 - [running the processing code](https://geospatialcentroid.github.io/COEnviroScreen/dataProcessing/processData.html)
